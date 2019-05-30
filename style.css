@@ -1,0 +1,29 @@
+.list-1{
+    list-style: none;
+    margin-top: 1em;
+}
+div{
+     border:2px solid black;
+     background-color:lightblue;
+}
+body{
+    background-color: aquamarine;
+    color:black;
+}
+img{
+    height: 150px;
+}
+aside{
+    width: 200px;
+    height: 250px;
+}
+
+
+    
+    
+    
+    
+    
+    
+    
+
